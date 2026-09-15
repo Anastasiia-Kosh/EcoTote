@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/nine-pixels-team/",
+    "build": "vite build --base=/EcoTote/",
     "preview": "vite preview"
   },
   "devDependencies": {

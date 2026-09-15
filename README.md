@@ -8,7 +8,7 @@
 
 Це командний навчальний проєкт, створений із використанням семантичної HTML-розмітки, адаптивного дизайну та підходу Mobile First.
 
-[Переглянути сайт](https://tarasbilyi.github.io/nine-pixels-team/) · [Оригінальний командний репозиторій](https://github.com/TarasBilyi/nine-pixels-team)
+[Переглянути сайт](https://anastasiia-kosh.github.io/EcoTote/) · [Оригінальний командний репозиторій](https://github.com/TarasBilyi/nine-pixels-team)
 
 ## Основні можливості
 
