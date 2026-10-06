@@ -55,3 +55,7 @@ npm run dev
 ## Командна робота
 
 Проєкт створено в межах командної розробки. Усі учасники та повна історія внесків доступні в [оригінальному репозиторії](https://github.com/TarasBilyi/nine-pixels-team).
+
+## Макет
+
+[Figma](https://www.figma.com/design/RCf95cRtisUxC8gsNFAFAp/EcoTote?node-id=5999-10563&p=f&t=8oMXFlsDwecHQ6NU-0)
